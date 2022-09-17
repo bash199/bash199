@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bash199 (Bashir Tarif)
-- 👀 I’m interested in new technology, reading books, training at the GYM, training body and mind.
-- 🌱 I’m currently learning Fullstack Devlopment.
-- 💞️ I’m looking to collaborate on web dev. projects.
+- 👀 I’m interested in programing, technology and reading books.
+- 🌱 I’m currently learning Fullstack Devlopment @APPLESEEDS. 
+- 💞️ I’m looking forward to Start working in my dream job.
 - 📫 How to reach me linkedin ->(https://www.linkedin.com/in/bashir-tarif-08850b24b), instagram-> (https://www.instagram.com/basheertf/).
 
 <!---
