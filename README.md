@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technology, reading books, training at the GYM, training body and mind.
 - 🌱 I’m currently learning Fullstack Devlopment.
 - 💞️ I’m looking to collaborate on web dev. projects.
-- 📫 How to reach me linkedin ->(linkedin.com/in/bashir-tarif-08850b24b), instagram-> (https://www.instagram.com/basheertf/).
+- 📫 How to reach me linkedin ->(https://www.linkedin.com/in/bashir-tarif-08850b24b), instagram-> (https://www.instagram.com/basheertf/).
 
 <!---
 bash199/bash199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
