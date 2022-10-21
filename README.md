@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bash199 (Bashir Tarif)
+- 👋 Hi, I’m Bashir Tarif (@bash199)
 - 👀 I’m interested in programing, technology and reading books.
 - 🌱 I’m currently learning Fullstack Devlopment @APPLESEEDS. 
 - 💞️ I’m looking forward to Start Do what I love doing for living.
