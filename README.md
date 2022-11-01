@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bashir Tarif (@bash199)
-- 👀 I’m interested in programing, technology and reading books.
+- 👀 I’m interested in programing, technology and reading.
 - 🌱 I’m currently learning Fullstack Development @APPLESEEDS. 
 - 💞️ I’m looking forward to Start Do what I love doing for living.
 - 📫 How to reach me Brtr99@gmail.com or linkedin ->(https://www.linkedin.com/in/bashir-tarif-08850b24b), 
