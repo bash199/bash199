@@ -8,3 +8,4 @@
 bash199/bash199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![contributions](https://user-images.githubusercontent.com/112946825/209835604-4c273d10-45b3-4a60-a07c-e8806286a8bc.svg)
