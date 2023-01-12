@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, technology and reading.
 - 🌱 I’m currently learning Fullstack Development @APPLESEEDS. 
 - 💞️ I’m looking forward to Start Do what I love doing for living.
-- 📫 How to reach me Brtr99@gmail.com or <a href='https://www.linkedin.com/in/bashir-tarif-08850b24b'  target="_blank">Linkedin</a> .
+- 📫 How to reach me Brtr99@gmail.com, <a href='https://www.linkedin.com/in/bashir-tarif-08850b24b'  target="_blank">Linkedin</a> .
 
 <!---
 bash199/bash199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
