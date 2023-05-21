@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bashir Tarif (@bash199)
 - 👀 I’m interested in programing, technology and reading.
-- 🌱 I’m currently learning Fullstack Development @APPLESEEDS. 
-- 💞️ I’m looking forward to Start Do what I love doing for living.
+- 🌱 I’m MERN Fullstack Developer .
 - 📫 How to reach me Brtr99@gmail.com, <a href='https://www.linkedin.com/in/bashir-tarif-08850b24b'  target="_blank">Linkedin</a> .
 
 <!---
